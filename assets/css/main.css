@@ -2443,3 +2443,11 @@ input, select, textarea {
 					}
 
 	}
+
+	.red {
+		color: #ff4d4d
+	}
+
+	.blue {
+		color: blue
+	}
