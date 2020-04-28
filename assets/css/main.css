@@ -1877,6 +1877,12 @@ input, select, textarea {
 					background-color: #FF6501;
 				}
 
+				ul.social li a.fa-dev {
+					/* background-color: #FF6501; */
+					background-color: #FAFAFA;
+
+				}
+
 				ul.social li a.fa-flickr {
 					background-color: #0062DB;
 				}
@@ -2013,7 +2019,8 @@ input, select, textarea {
 		}
 
 		.wrapper.style4 {
-			background-color: #303030;
+			/* background-color: rgb(39, 71, 102); */
+			background-color: #282828;
 			color: #999;
 			text-shadow: -1px -1px 0px #181818;
 		}
@@ -2041,6 +2048,8 @@ input, select, textarea {
 
 	#nav {
 		background-color: #282828;
+		/* background-color: rgb(39, 71, 102); */
+
 		text-align: center;
 		position: fixed;
 		left: 0;
