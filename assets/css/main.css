@@ -1822,7 +1822,8 @@ input, select, textarea {
 				}
 
 				ul.social li a.fa-twitter {
-					background-color: #2DAAE4;
+					/* background-color: #2DAAE4; */
+					background-color: #FAFAFA;
 				}
 
 				ul.social li a.fa-facebook-f {
@@ -1834,7 +1835,8 @@ input, select, textarea {
 				}
 
 				ul.social li a.fa-linkedin-in {
-					background-color: #006599;
+					/* background-color: #006599; */
+					background-color: #FAFAFA;
 				}
 
 				ul.social li a.fa-tumblr {
@@ -1870,7 +1872,9 @@ input, select, textarea {
 				}
 
 				ul.social li a.fa-youtube {
-					background-color: #BF2E25;
+					/* background-color: #BF2E25; */
+					background-color: #FAFAFA;
+
 				}
 
 				ul.social li a.fa-blogger {
